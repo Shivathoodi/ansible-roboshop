@@ -12,3 +12,6 @@ redis.shivalearning.online
 
 [user]
 user.shivalearning.online
+
+[cart]
+cart.shivalearning.online
