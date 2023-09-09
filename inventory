@@ -9,3 +9,6 @@ web.shivalearning.online
 
 [redis]
 redis.shivalearning.online
+
+[user]
+user.shivalearning.online
