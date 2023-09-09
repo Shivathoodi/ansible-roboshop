@@ -24,3 +24,6 @@ shipping.shivalearning.online
 
 [rabbitmq]
 rabbitmq.shivalearning.online
+
+[payment]
+payment.shivalearning.online
