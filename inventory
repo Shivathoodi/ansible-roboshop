@@ -8,22 +8,22 @@ catalogue.shivalearning.online
 web.shivalearning.online
 
 [redis]
-redis.joindevops.online
+redis.shivalearning.online
 
 [user]
-user.joindevops.online
+user.shivalearning.online
 
 [cart]
-cart.joindevops.online
+cart.shivalearning.online
 
 [mysql]
-mysql.joindevops.online
+mysql.shivalearning.online
 
 [shipping]
-shipping.joindevops.online
+shipping.shivalearning.online
 
 [rabbitmq]
-rabbitmq.joindevops.online
+rabbitmq.shivalearning.online
 
 [payment]
-payment.joindevops.online
+payment.shivalearning.online
