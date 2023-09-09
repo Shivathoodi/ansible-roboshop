@@ -7,23 +7,3 @@ catalogue.shivalearning.online
 [web]
 web.shivalearning.online
 
-[redis]
-redis.shivalearning.online
-
-[user]
-user.shivalearning.online
-
-[cart]
-cart.shivalearning.online
-
-[mysql]
-mysql.shivalearning.online
-
-[shipping]
-shipping.shivalearning.online
-
-[rabbitmq]
-rabbitmq.shivalearning.online
-
-[payment]
-payment.shivalearning.online
